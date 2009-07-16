@@ -1,0 +1,4 @@
+Taken from [EmacsWiki](http://www.emacswiki.org/emacs/autotest.el)
+author: [Ryan Davis](http://www.emacswiki.org/emacs/RyanDavis)
+
+Sets up an autotest buffer and provides convenience methods.

@@ -2,3 +2,9 @@ Taken from [EmacsWiki](http://www.emacswiki.org/emacs/autotest.el)
 author: [Ryan Davis](http://www.emacswiki.org/emacs/RyanDavis)
 
 Sets up an autotest buffer and provides convenience methods.
+
+---
+
+This is a fork of krick's fork of Ryan Davis original autotest.el.
+
+I needed the ansi color support of krick's version, but I wanted to backport Ryan's modifications, that's how this fork was born.
